@@ -1,2 +1,3 @@
 # Web-Application-Stack-local
-Creating Web Application Stack Locally 
+Multi tier web application stack
+Setup on laptop/desktop

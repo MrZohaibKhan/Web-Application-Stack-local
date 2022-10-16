@@ -1,7 +1,7 @@
 # Web-Application-Stack-local
-# Multi tier web application stack # \
-Setup on laptop/desktop \
-## Prerequisites ## \
+# Multi tier web application stack \
+#### Setup on laptop/desktop \
+## Prerequisites \
 1.Windows 10 or Higher \
 2. Install Chocolatey \
 3. Open Powershell as Administrator \

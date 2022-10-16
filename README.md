@@ -11,4 +11,4 @@ Prerequisites \
 7. choco install jdk8 \
 8. choco install maven \
 9. choco install intellijidea-community \
-10. choco install [IDE on your choose] 
+10. choco install [IDE of your choose] 

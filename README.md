@@ -12,3 +12,4 @@
 * choco install maven
 * choco install intellijidea-community
 * choco install [IDE of your choose]
+* vagrant plugin install vagrant-hostmanager

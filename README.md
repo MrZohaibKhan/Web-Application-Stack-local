@@ -15,4 +15,4 @@ Setup on laptop/desktop
 * vagrant plugin install vagrant-hostmanager
 #### Step 1:
 * Make a dir name Multi-tier-App
-* Go to [Multi-Machine Vagrant](https://www.vagrantup.com/docs/multi-machine "whoami")
+* Go to [Multi-Machine Vagrant](https://www.vagrantup.com/docs/multi-machine)

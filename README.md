@@ -14,5 +14,3 @@ Setup on laptop/desktop
 * choco install [IDE of your choose]
 * vagrant plugin install vagrant-hostmanager
 #### Step 1:
-* Make a dir name Multi-tier-App
-* Go to [Multi-Machine Vagrant](https://www.vagrantup.com/docs/multi-machine)

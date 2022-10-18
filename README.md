@@ -13,4 +13,12 @@ Setup on laptop/desktop
 * choco install intellijidea-community
 * choco install [IDE of your choose]
 * vagrant plugin install vagrant-hostmanager
-#### Step 1:
+#### Description 
+* Deploy 4 Centos VMs and 1 Ubuntu VM with Vagrant multi-machine environment
+* Manually Provision VMs To Create
+  * NginX
+  * TomCat
+  * RabbitMQ
+  * MemCache
+  * MySql
+* Finally Deploy Java Application on Tomcat

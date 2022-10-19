@@ -21,4 +21,4 @@ Setup on laptop/desktop
   * RabbitMQ
   * MemCache
   * MySql
-* Finally Deploy Java Application on Tomcat
+  * Finally Deploy Java Application on Tomcat

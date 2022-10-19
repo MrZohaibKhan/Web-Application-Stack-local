@@ -15,7 +15,7 @@ Setup on laptop/desktop
 * vagrant plugin install vagrant-hostmanager
 #### Description 
 * Deploy 4 Centos VMs and 1 Ubuntu VM with Vagrant multi-machine environment
-* Manually Provision VMs To Create
+* First manually provision VMs and then use IAAC to create
   * NginX
   * TomCat
   * RabbitMQ
